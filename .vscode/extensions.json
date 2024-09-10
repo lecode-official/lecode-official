@@ -1,0 +1,25 @@
+{
+    // List of extensions which should be recommended for users of this workspace
+    "recommendations": [
+
+        // Language support for .gitignore files
+        "codezombiech.gitignore",
+
+        // Integrates MarkdownLint into the editor, which is the same linter that is used in our test suite
+        "DavidAnson.vscode-markdownlint",
+
+        // Perform spell-checking of the documentation, code, and comments with support for warnings in VS Code
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-german",
+
+        // The best icon pack for VSCode's file explorer
+        "vscode-icons-team.vscode-icons",
+
+        // Highlights TODOs, FIXMEs, HACKs, DEBUGs, REVIEWs, and NOTEs inside of code files
+        "wayou.vscode-todo-highlight",
+
+        // Extends the support for Markdown with many useful features, such as list editing, math support, auto completions, and auto generation of
+        // tables of content
+        "yzhang.markdown-all-in-one"
+    ]
+}

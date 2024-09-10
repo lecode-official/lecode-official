@@ -1,0 +1,4 @@
+
+# Ignores operating system icon preview caches
+.DS_Store
+Thumbs.db

@@ -1,0 +1,69 @@
+﻿{
+    // Version of the settings file, this should always be 0.2
+    "version": "0.2",
+
+    // The code in this repository is checked against American English
+    "language": "en-us",
+
+    // A list of file types that should be enabled (not all file types are enabled by default)
+    "enableFiletypes": [
+        "gitignore"
+    ],
+
+    // A list of paths that are ignored when spell-checking (ignores the .git directory, but excludes the commit message file that is created by Git
+    // during a commit, and the cSpell configuration file itself)
+    "ignorePaths": [
+        ".git",
+        "!.git/COMMIT_EDITMSG",
+        "**/.cspell.json"
+    ],
+
+    // A list of dictionaries that should be added beyond the American English dictionary
+    "dictionaries": [
+
+        // Dictionaries that contain common misspellings
+        "en-common-misspellings",
+        "en-us-common-misspellings",
+        "en-us",
+
+        // Other dictionaries, that contain the names of well-known companies, common acronyms related to computing, words used in data science,
+        // common file extensions, common font names that may be used in CSS, common words often encountered in full-stack development, the
+        // popular blind text Lorem Ipsum often used for testing text layout, terms common in computer networking, the most popular NPM packages that
+        // may be used in Angular projects, terms used in popular public licenses, common software terms, and miscellaneous terms that are common in
+        // software projects
+        "companies",
+        "computing-acronyms",
+        "data-science",
+        "filetypes",
+        "fonts",
+        "fullstack",
+        "lorem-ipsum",
+        "misc",
+        "networking-terms",
+        "npm",
+        "public-licenses",
+        "software-terms",
+        "web-services"
+    ],
+
+    // A list of words to be always considered incorrect (by default, only words that have 4 or more characters are spell-checked, so this list
+    // includes some common typos of words that are too short to be recognizes by CSpell)
+    "flagWords": [
+        "fo",
+        "ot",
+        "fro",
+        "teh",
+        "hte"
+    ],
+
+    // A list of words that are not in the included default dictionary for British English, American English, or German
+    "words": [
+        "Anson",
+        "codezombiech",
+        "lecode",
+        "Neumann",
+        "vsicons",
+        "wayou",
+        "yzhang"
+    ]
+}
