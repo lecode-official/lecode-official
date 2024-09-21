@@ -15,5 +15,7 @@ In addition to machine learning, I'm interested in formal languages, automata, a
 I'm currently pursuing my PhD while working on developing federated learning methods highly personalized and privacy-focused recommender systems.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecode-official&count_private=true&show_icons=true&theme=dracula" alt="My GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lecode-official&custom_title=My%20GitHub%20Stats&include_all_commits=true&line_height=28&show_icons=true&theme=dracula" alt="My GitHub Stats" height="215" align="center">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecode-official&custom_title=My%20Most%20Used%20Languages&layout=donut&theme=dracula" alt="My Most Used Languages" height="215" align="center">
 </p>
