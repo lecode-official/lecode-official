@@ -12,7 +12,7 @@ I have a strong foundation in computer science, having completed my M.Sc. degree
 
 In addition to machine learning, I'm interested in formal languages, automata, and compiler construction – topics that underpin many modern software systems. As someone with entrepreneurial experience, I value innovation and collaboration in driving technical solutions.
 
-I'm currently pursuing my PhD while working on developing federated learning methods highly personalized and privacy-focused recommender systems.
+I'm currently pursuing my PhD while working on developing federated learning methods for highly personalized and privacy-focused recommender systems.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lecode-official&custom_title=My%20GitHub%20Stats&include_all_commits=true&line_height=28&show_icons=true&theme=dracula" alt="My GitHub Stats" height="215" align="center">
